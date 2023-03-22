@@ -14,3 +14,10 @@ Reference: https://aws.amazon.com/getting-started/hands-on/machine-learning-tuto
 ![image](https://user-images.githubusercontent.com/44468782/223840193-26aea719-b357-4715-a850-63d5db4b7808.png)
 
 
+## Week2
+In week2, I use SageMaker to build and train a Machine Learning Model locally.
+I used Amazon SageMaker Studio to locally build a binary classification model using the XGBoost open source library and saved the model artifacts and outputs to Amazon S3. 
+![image-20230322151248283](https://user-images.githubusercontent.com/44468782/227016570-5fb22f14-80ea-4a6b-a53d-e5d88adc8342.png)
+
+![image-20230322151229257](https://user-images.githubusercontent.com/44468782/227016631-37ff3f2d-32d0-4b21-8770-a213afb0c453.png)
+
